@@ -1,0 +1,45 @@
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe.config
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.pdb
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.g.cs
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\App.g.cs
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.cache
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.lref
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.baml
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.g.resources
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab_Menu.Properties.Resources.resources
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.GenerateResource.cache
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.exe
+C:\Users\soblab\source\repos\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.pdb
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe.config
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.pdb
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csprojAssemblyReference.cache
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.g.cs
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\App.g.cs
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.cache
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.lref
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.baml
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.g.resources
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab_Menu.Properties.Resources.resources
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.GenerateResource.cache
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.CoreCompileInputs.cache
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.exe
+C:\Users\itlabs.INFO_SERVICES\Downloads\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe.config
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.exe
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\bin\Debug\Lab-Menu.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csprojAssemblyReference.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.g.cs
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\App.g.cs
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu_MarkupCompile.lref
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\MainWindow.baml
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.g.resources
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab_Menu.Properties.Resources.resources
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.GenerateResource.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.exe
+C:\Users\jason\Downloads\C# entice class\Lab-Menu\Lab-Menu\Lab-Menu\obj\Debug\Lab-Menu.pdb
